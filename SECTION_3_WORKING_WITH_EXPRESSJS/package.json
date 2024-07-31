@@ -1,0 +1,16 @@
+{
+  "name": "section_3_working_with_expressjs",
+  "version": "1.0.0",
+  "description": "Learning about Express Js library in Node Js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejaswi Rastogi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}

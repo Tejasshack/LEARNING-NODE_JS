@@ -1,0 +1,12 @@
+{
+  "name": "asection_3_final_assigment",
+  "version": "1.0.0",
+  "description": "This Assignment we will se how to use express.router and serve static html files through it",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejaswi Rastogi",
+  "license": "ISC"
+}
